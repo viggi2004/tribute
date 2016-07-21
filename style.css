@@ -1,0 +1,50 @@
+.background {
+  background-color:rgb(238,238,238);
+  width:100%;
+  padding: 100px 50px 10px 50px;
+  border-radius:5px;
+}
+.custom-padding {
+  padding: 0px 100px;
+}
+.f48 {
+  font-size: 48px;
+}
+.f40 {
+  font-size: 40px;
+}
+.first {
+	width: 400px;
+	height: 400px;
+}
+li {
+  font-family: sans-serif;
+  line-height: 3
+}
+.canvas {
+  padding: 3px 3px 0px 3px;
+  background-color: white;
+  display: inline-block;
+  /*width: 968px;*/
+  margin: 0 auto;
+  border-radius: 3px;
+}
+.by {
+  color:gray;
+}
+/*.caption {
+	font-size: 20px;
+	padding-top:10px;
+}*/
+.pl30 {
+	padding-left: 30px;
+}
+.ml50 {
+  margin-left: 50px;
+}
+.ml25 {
+  margin-left: 25px;
+}
+.pb30 {
+  padding-bottom: 30px;
+}
